@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Silvan, an AI researcher and senior software engineer. I do some AI, scientific and web open source stuff.
 <!--
 **silvaan/silvaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
